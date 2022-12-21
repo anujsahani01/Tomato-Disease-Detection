@@ -1,0 +1,1 @@
+VGG 16 -> Accuracy_Max:98.05 , Val_Accuracy_Max:99.00

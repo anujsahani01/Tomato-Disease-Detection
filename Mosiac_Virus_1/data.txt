@@ -1,0 +1,1 @@
+VGG 16 -> accuracy:99.55 , val_accuracy:99.50

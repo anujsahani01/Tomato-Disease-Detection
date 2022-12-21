@@ -1,0 +1,3 @@
+VGG16
+accuracy = 98.35%
+validation_acc = 98.67%

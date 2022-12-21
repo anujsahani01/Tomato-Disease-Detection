@@ -1,0 +1,3 @@
+VGG16
+accuracy = 99.45%
+val_accuracy = 99.56%
